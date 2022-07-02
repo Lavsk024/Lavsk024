@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lavanya S
+- 👀 I’m interested in Data Analyst, Report Building using SSRS
+- 🌱 I’m currently learning Data Science
